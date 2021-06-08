@@ -532,6 +532,11 @@ a {
   border-radius: 15px;
 }
 
+.anchor_decoration{
+  text-decoration: none;
+  color: #000;
+}
+
 /*IDs*/
 #collection {
   margin-top: 5em;
@@ -558,6 +563,8 @@ a {
 #digital_section_heading {
   border-radius: 10px;
 }
+
+
 
 /* Home Page CSS ENDS */
 

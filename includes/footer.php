@@ -8,13 +8,13 @@
             <a href="https://www.facebook.com/TechnoIndiaNJR/" target="_blank"><i class="icon ion-social-facebook"></i></a>
           </div>
             <ul class="list-inline">
-                <li class="list-inline-item"><a href="./index.html">Home</a></li>
-                <li class="list-inline-item"><a href="#">About Us</a></li>
+                <li class="list-inline-item"><a href="<?php if($PAGE=='home'){echo "#";} else{echo "./index.php";}?>">Home</a></li>
+                <li class="list-inline-item"><a href="<?php if($PAGE=='AboutUs') {echo "#";} else {echo "./AboutUs.php";}?>">About Us</a></li>
                 <li class="list-inline-item"><a href="./departments.html">Departments</a></li>
                 <li class="list-inline-item"><a href="#">Placements</a></li>
                 <li class="list-inline-item"><a href="#">Grievance Redressal</a></li>
                 <li class="list-inline-item"><a href="#">RTI</a></li>
-                <li class="list-inline-item"><a href="./coc.html">Code Of Conduct</a></li>
+                <li class="list-inline-item"><a href="<?php if($PAGE=='coc'){echo "#";} else {echo "coc.php";}?>">Code Of Conduct</a></li>
                 <li class="list-inline-item"><a href="./IQAC.html">IQAC</a></li>
                 <li class="list-inline-item"><a href="./contactus.html">Contact Us</a></li>
             </ul>

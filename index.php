@@ -51,25 +51,25 @@
                       <div class="card-text">
                         <article>
                           <!--Reference Link 1-->
-                          <h4><a href="#" title="Techno India NJR is participating in the NVIDIA GTC conference on April 12th, 2021.">Techno India NJR is participating in the NVIDIA GTC conference on April 12th, 2021.</a></h4>
+                          <h4><a class="anchor_decoration" href="#" title="Techno India NJR is participating in the NVIDIA GTC conference on April 12th, 2021.">Techno India NJR is participating in the NVIDIA GTC conference on April 12th, 2021.</a></h4>
 
                           <small>NVIDIA GTC is a global virtual conference and will...</small><hr>
                         </article>
                         <article>
                           <!--Reference Link 2-->
-                          <h4><a href="#" title="[PLACEMENT 2020-21] Cognizant Technologies Selects 3 Techno NJR students at a Package of 5.41 LPA.">[PLACEMENT 2020-21] Cognizant Technologies Selects 3 Techno NJR students at a Package of 5.41 LPA.</a></h4>
+                          <h4><a class="anchor_decoration" href="#" title="[PLACEMENT 2020-21] Cognizant Technologies Selects 3 Techno NJR students at a Package of 5.41 LPA.">[PLACEMENT 2020-21] Cognizant Technologies Selects 3 Techno NJR students at a Package of 5.41 LPA.</a></h4>
 
                           <small>[PLACEMENT 2020-21] Cognizant Technologies Selects...</small><hr>
                         </article>
                         <article>
                           <!--Reference Link 3-->
-                          <h4><a href="#" title="Thermax selects 4 Techno NJR Students">Thermax selects 4 Techno NJR Students</a></h4>
+                          <h4><a class="anchor_decoration" href="#" title="Thermax selects 4 Techno NJR Students">Thermax selects 4 Techno NJR Students</a></h4>
 
                           <small>Congratulations to the selected students: 1. Chetan...</small><hr>
                         </article>
                         <article>
                           <!--Reference Link 4-->
-                          <h4><a href="#" title="Startup Venture Wricks by ex-students of Techno India NJR incubated at Techno India NJR Incubation Center has won the second prize of Canadian $12500/-">Startup Venture Wricks by ex-students of Techno India NJR incubated at Techno India NJR Incubation Center has won the second prize of Canadian $12500/-</a></h4>
+                          <h4><a class="anchor_decoration" href="#" title="Startup Venture Wricks by ex-students of Techno India NJR incubated at Techno India NJR Incubation Center has won the second prize of Canadian $12500/-">Startup Venture Wricks by ex-students of Techno India NJR incubated at Techno India NJR Incubation Center has won the second prize of Canadian $12500/-</a></h4>
 
                           <small>Startup Venture Wricks by Lokesh Puri Goswami and Kunjpreet...</small>
                         </article>
@@ -133,7 +133,7 @@
                     <div class="card-body">
                       <div class="card-text">
                       <!-- Reference Link 8 -->
-                        <a title="Computer Science Engineering &#038; Information Technology (CSE &#038; IT) card_text_font" href="./department_cse.html">
+                        <a class="anchor_decoration" title="Computer Science Engineering &#038; Information Technology (CSE &#038; IT) card_text_font" href="./department_cse.html">
                           <h5>Computer Science Engineering &#038; Information Technology (CSE &#038; IT)</h5>
                         </a>
 
@@ -161,7 +161,7 @@
                     <div class="card-body">
                       <div class="card-text">
                         <!-- Reference Link 10 -->
-                        <a title="Electronics and Communication Engineering (ECE)" href="./department_ece.html">
+                        <a class="anchor_decoration" title="Electronics and Communication Engineering (ECE)" href="./department_ece.html">
                           <h5>Electronics and Communication Engineering (ECE)</h5>
                         </a>
 
@@ -190,7 +190,7 @@
                     <div class="card-body">
                       <div class="card-text">
                       <!-- Reference Link 12 -->
-                        <a title="Mechanical Engineering (ME)" href="mechanical_Department.html">
+                        <a class="anchor_decoration" title="Mechanical Engineering (ME)" href="mechanical_Department.html">
                           <h5>Mechanical Engineering (ME)</h5>
 
                         </a>
@@ -222,7 +222,7 @@
                     <div class="card-body">
                       <div class="card-text">
                       <!-- Reference Link 14 -->
-                        <a title="Electrical Engineering (EE)" href="#">
+                        <a class="anchor_decoration" title="Electrical Engineering (EE)" href="#">
                           <h5>Electrical Engineering (EE)</h5>
                         </a>
 
@@ -250,7 +250,7 @@
                     <div class="card-body">
                       <div class="card-text">
                         <!-- Reference Link 16 -->
-                        <a title="Civil Engineering (CE)" href="./civil_Department.html">
+                        <a class="anchor_decoration" title="Civil Engineering (CE)" href="./civil_Department.html">
                           <h5>Civil Engineering (CE)</h5>
                         </a>
 
@@ -279,7 +279,7 @@
                     <div class="card-body">
                       <div class="card-text">
                         <!-- Reference Link 18 -->
-                        <a title="Applied Sciences and Humanities" href="./department__applied_science.html">
+                        <a class="anchor_decoration" title="Applied Sciences and Humanities" href="./department__applied_science.html">
                           <h5>Applied Sciences and Humanities</h5>
                         </a>
 
@@ -318,7 +318,7 @@
                   <div class="card-body">
                     <div class="card-text">
                     <!-- Reference Link 20 -->
-                      <a title="Placement 2019 to 2021" href="placements19-20.html">
+                      <a class="anchor_decoration" title="Placement 2019 to 2021" href="placements19-20.html">
                         <h5>Placement 2019 to 2021</h5>
                       </a>
 
@@ -346,7 +346,7 @@
                   <div class="card-body">
                     <div class="card-text">
                       <!-- Reference Link 22 -->
-                      <a title="Placement 2013-19" href="#">
+                      <a class="anchor_decoration" title="Placement 2013-19" href="#">
                         <h5>Placement 2013-19</h5>
                       </a>
 
@@ -375,7 +375,7 @@
                   <div class="card-body">
                     <div class="card-text">
                     <!-- Reference Link 24 -->
-                      <a title="World Class Labs" href="#">
+                      <a class="anchor_decoration" title="World Class Labs" href="#">
                         <h5>World Class Labs</h5>
                       </a>
                     </div>
@@ -406,7 +406,7 @@
                   <div class="card-body">
                     <div class="card-text">
                     <!-- Reference Link 26 -->
-                      <a title="Industry Readiness Training" href="#">
+                      <a class="anchor_decoration" title="Industry Readiness Training" href="#">
                         <h5>Industry Readiness Training</h5>
                       </a>
 
@@ -434,7 +434,7 @@
                   <div class="card-body">
                     <div class="card-text">
                       <!-- Reference Link 28 -->
-                      <a title="Smart Udaipur Incubation Center" href="#">
+                      <a class="anchor_decoration" title="Smart Udaipur Incubation Center" href="#">
                         <h5>Smart Udaipur Incubation Center</h5>
                       </a>
 
@@ -463,7 +463,7 @@
                   <div class="card-body">
                     <div class="card-text">
                       <!-- Reference Link 30 -->
-                      <a title="Smart India Hackathon (World&#8217;s Biggest Hackathon)" href="#">
+                      <a class="anchor_decoration" title="Smart India Hackathon (World&#8217;s Biggest Hackathon)" href="#">
                         <h5>Smart India Hackathon (World&#8217;s Biggest Hackathon)</h5>
                       </a>
 
@@ -499,7 +499,7 @@
                   <div class="card-body">
                     <div class="card-text">
                     <!-- Reference Link 32 -->
-                      <a title="Success @ Techno NJR" href="#">
+                      <a class="anchor_decoration" title="Success @ Techno NJR" href="#">
                         <h5>Success @ Techno NJR</h5>
                       </a>
 
@@ -527,7 +527,7 @@
                   <div class="card-body">
                     <div class="card-text">
                       <!-- Reference Link 34 -->
-                      <a title="Life @ Campus" href="#">
+                      <a class="anchor_decoration" title="Life @ Campus" href="#">
                         <h5>Life @ Campus</h5>
                       </a>
 
@@ -556,7 +556,7 @@
                   <div class="card-body">
                     <div class="card-text">
                     <!-- Reference Link 36 -->
-                      <a title="Visitors/ Conferences/ Seminars/ Workshops" href="#">
+                      <a class="anchor_decoration" title="Visitors/ Conferences/ Seminars/ Workshops" href="#">
                         <h5>Visitors/ Conferences/ Seminars/ Workshops</h5>
                       </a>
                     </div>

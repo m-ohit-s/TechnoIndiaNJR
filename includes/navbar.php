@@ -38,7 +38,7 @@
                             
                         </button>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li><a class="dropdown-item" href="./coc.html">Code of Conduct</a></li>
+                            <li><a class="dropdown-item" href="<?php if($PAGE=='coc'){echo "#";} else {echo "coc.php";}?>">Code of Conduct</a></li>
                             <li><a class="dropdown-item" href="./IQAC.html">IQAC</a></li>
                             <li><a class="dropdown-item" href="./aboutUsPolicies.html">Policies</a></li>
                         </ul>
@@ -57,7 +57,7 @@
                             <li><a class="dropdown-item" href="#">Applied Sciences and Humanities</a></li>
                             <li><a class="dropdown-item" href="./adjunct-faculties.html">Adjunct Faculties</a></li>
                             <li><a class="dropdown-item" href="./researches.html">Research</a></li>
-                            <li><a class="dropdown-item" href="#">Projects</a></li>
+                            <li><a class="dropdown-item" href="<?php if($PAGE == 'projects'){echo '#';} else {echo './projects.php';}?>">Projects</a></li>
                         </ul>
                     </li>
                     <li class="nav-item dropdown">
